@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am born in ShanXi, China.
+- 🌱 I am studying in Department of Electronic Engineering, Tsinghua University in Beijing, China.
+- ⚡ I am interested in machine learning, web crawler and software engineering (vegetable though :( ).
+- 💬 Stay hungry. Stay Foolish.
