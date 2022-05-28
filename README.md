@@ -23,21 +23,13 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyj-source&show_icons=true&theme=dark&title_color=87CEEB&text_color=7B68EE)](https://github.com/anuraghazra/github-readme-stats)
 
-||Languages|
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)
 
-|:---:|:---:|
-
-|Accustomed|![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)|
-
-|Others| ![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)|
-***\*###\** Working with**
+### Working with
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-***\*###\** Operating Systems**
+### Operating Systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)![Centos](https://img.shields.io/badge/Centos-262577?style=for-the-badge&logo=centos&logoColor=white)
-
-***\*###\** Researching on**
-
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
