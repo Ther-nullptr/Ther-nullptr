@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ I am interested in machine learning, web crawler and software engineering (vegetable though :( ).
 - 💬 Stay hungry. Stay Foolish.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyj-source&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ther-nullptr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyj-source&show_icons=true&theme=dark&title_color=87CEEB&text_color=7B68EE)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ther-nullptr&show_icons=true&theme=dark&title_color=87CEEB&text_color=7B68EE)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)
