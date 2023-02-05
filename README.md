@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ther-nullptr&show_icons=true&theme=dark&title_color=87CEEB&text_color=7B68EE)](https://github.com/anuraghazra/github-readme-stats)
 
-![github-metrics](./github-metrics.svg)
-
 ### Recent Activities
 [![wakatime](https://wakatime.com/badge/user/0867f85e-3f12-4d52-bb69-a3a8037a3091.svg)](https://wakatime.com/@0867f85e-3f12-4d52-bb69-a3a8037a3091) 
 
