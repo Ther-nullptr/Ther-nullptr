@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)
 
+### Recent Activities
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ther-nullptr)
+
 ### Working with
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
