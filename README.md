@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I was born in ShanXi, China.
 - 🌱 I am studying in Department of Electronic Engineering, Tsinghua University in Beijing, China.
-- ⚡ I am interested in machine learning, web crawler and software engineering (vegetable though :( ).
+- ⚡ I am interested in deep learning, hardware for machine learning and software engineering.
 - 💬 Stay hungry. Stay Foolish.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ther-nullptr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)
 
 ### Recent Activities
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ther-nullptr)
+[![wakatime](https://wakatime.com/badge/user/0867f85e-3f12-4d52-bb69-a3a8037a3091.svg)](https://wakatime.com/@0867f85e-3f12-4d52-bb69-a3a8037a3091)
 
 ### Working with
 
