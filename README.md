@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logo=velog&logoColor=white)
 
 ### Recent Activities
-[![wakatime](https://wakatime.com/badge/user/0867f85e-3f12-4d52-bb69-a3a8037a3091.svg)](https://wakatime.com/@0867f85e-3f12-4d52-bb69-a3a8037a3091)
+[![wakatime](https://wakatime.com/badge/user/0867f85e-3f12-4d52-bb69-a3a8037a3091.svg)](https://wakatime.com/@0867f85e-3f12-4d52-bb69-a3a8037a3091) 
 
 ### Working with
 
