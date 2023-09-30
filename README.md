@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I was born in ShanXi, China.
-- 🌱 I am studying in Department of Electronic Engineering, Tsinghua University in Beijing, China.
-- ⚡ I am interested in deep learning, hardware for machine learning and software engineering.
-- 💬 Stay hungry. Stay Foolish.
-- 📫 Welcome to visit my [personal blog](https://ther-nullptr.github.io/)!
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ther-nullptr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
